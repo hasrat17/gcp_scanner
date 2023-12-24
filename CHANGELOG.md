@@ -4,7 +4,7 @@
 
 
 ### Miscellaneous
-
+# Here we have some misc information
 * Enable release to PyPI ([45c22a1](https://github.com/google/gcp_scanner/commit/45c22a134f968f407e9e7c618ddc0359cec40ba5))
 * fix PyPI release ([4cf77a5](https://github.com/google/gcp_scanner/commit/4cf77a55c048a2b055e95d29783cfaf09f2d9862))
 * Remove extra build from PyPI release ([278e41a](https://github.com/google/gcp_scanner/commit/278e41a0f87a23fb27a6706ec8a2cfbdce5220a4))
